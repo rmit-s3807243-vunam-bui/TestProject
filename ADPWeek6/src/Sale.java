@@ -18,7 +18,7 @@ public abstract class Sale {
 		this.off[offCount] = off;
 	}
 	//test2
-	//test 3123
+	//test 3123sdf
 	public abstract void changeWillingPrice();
 	
 	public void test() {
