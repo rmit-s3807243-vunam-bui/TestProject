@@ -8,6 +8,8 @@ public class Customer {
 	}
 	
 	// okeeeeeeeeeeeeeeeeeeeee
+	// hannnnnnnn
+	// nammmmm
 	public String getCID () {
 		return cID;
 	}
