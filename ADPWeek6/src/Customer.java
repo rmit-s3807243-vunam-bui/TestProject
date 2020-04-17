@@ -7,6 +7,7 @@ public class Customer {
 		this.suburb = suburb;
 	}
 	
+	// okeeeeeeeeeeeeeeeeeeeee
 	public String getCID () {
 		return cID;
 	}
