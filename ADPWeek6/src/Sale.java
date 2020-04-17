@@ -21,5 +21,8 @@ public abstract class Sale {
 	//test 3
 	public abstract void changeWillingPrice();
 	
+	public void test() {
+		
+	}
 	
 }
